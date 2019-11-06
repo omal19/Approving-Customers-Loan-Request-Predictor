@@ -1,7 +1,10 @@
 # Approving-Customers-Loan-Request-Predictor
 
+
 ### Problem statement :
 If any customer has applied for a loan of 1,000,000 Rs, the bank and investors needs to perform a due diligence on the requested loan application. To develop an Machine Learning model to check whether the applicant's loan should be approved (capable to pay loan back) or not.
+
+
 
 ### Alogrithms (Hpypertuned):
      -  Logistic Regression
@@ -16,9 +19,15 @@ If any customer has applied for a loan of 1,000,000 Rs, the bank and investors n
      -  Adaboost Classifier
      -  XGBoost Classifier
      
+     
+     
+     
  ### Results (Accuracy and F1-score):
  
  ![results](https://user-images.githubusercontent.com/47252506/68310027-5908bb80-00d5-11ea-8a96-17073cc527f6.png)
+
+
+
 
 
 ### Information about the dataset ####
