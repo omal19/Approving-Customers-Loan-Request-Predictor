@@ -43,13 +43,13 @@ If any customer has applied for a loan of 1,000,000 Rs, the bank and investors n
                   Attribute:                     Description:
         ------------------            -----------------------------------------------
         
-        member_id	                    unique ID assigned to each member
-        loan_amnt	                    loan amount ($) applied by the member
-        funded_amnt	                    loan amount ($) sanctioned by the bank
-        funded_amnt_inv	               loan amount ($) sanctioned by the investors
-        term	term of                  loan (in months)
-        batch_enrolled	               batch numbers allotted to members
-        int_rate	                    interest rate (%) on loan
+        member_id                       unique ID assigned to each member
+        loan_amnt                       loan amount ($) applied by the member
+        funded_amnt                     loan amount ($) sanctioned by the bank
+        funded_amnt_inv                 loan amount ($) sanctioned by the investors
+        term                            loan (in months)
+        batch_enrolled                  batch numbers allotted to members
+        int_rate                        interest rate (%) on loan
         grade	                         grade assigned by the bank
         sub_grade	                    grade assigned by the bank1
         emp_title	                    job / Employer title of member
@@ -85,6 +85,6 @@ If any customer has applied for a loan of 1,000,000 Rs, the bank and investors n
         last_week_pay	               indicates how long (in weeks) a member has paid EMI after batch enrolled
         acc_now_delinq	               number of accounts on which the member is delinquent
         tot_coll_amt	               total collection amount ever owed
-        tot_cur_bal	                    total current balance of all accounts
-        total_rev_hi_lim	               total revolving credit limit
-        loan_status	                    status of loan amount, 1 = Defaulter, 0 = Non Defaulters
+        tot_cur_bal                         total current balance of all accounts
+        total_rev_hi_lim                total revolving credit limit
+        loan_status                     status of loan amount, 1 = Defaulter, 0 = Non Defaulters
