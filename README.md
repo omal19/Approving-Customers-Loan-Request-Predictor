@@ -88,3 +88,7 @@ If any customer has applied for a loan of 1,000,000 Rs, the bank and investors n
         tot_cur_bal                     total current balance of all accounts
         total_rev_hi_lim                total revolving credit limit
         loan_status                     status of loan amount, 1 = Defaulter, 0 = Non Defaulters
+
+
+#### Dataset Download link 
+https://drive.google.com/file/d/1Wbd7VKRqegKMCDEvBvQqtJpPcPFtivQg/view
