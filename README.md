@@ -30,6 +30,7 @@ If any customer has applied for a loan of 1,000,000 Rs, the bank and investors n
 
 
 
+
 ### Information about the dataset ####
 
 1. Number of Instances: 500000+ 
@@ -92,3 +93,6 @@ If any customer has applied for a loan of 1,000,000 Rs, the bank and investors n
 
 #### Dataset Download link 
 https://drive.google.com/file/d/1Wbd7VKRqegKMCDEvBvQqtJpPcPFtivQg/view
+
+
+
